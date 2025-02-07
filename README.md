@@ -1,4 +1,4 @@
-# CALCULATOR FOR BASIC ARITHMETIC OPERATION
+# Basic Stopwatchapp that displays minutes seconds miliseconds and which allows user to start stop and restart
 # COMPANY : PRODIGY INFOTECH
 # NAME : KSHIRSAGAR SAKSHI BHAGWAN
 # DOMAIN : ANDROID DEVLOPMENT
